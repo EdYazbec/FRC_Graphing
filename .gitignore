@@ -1,0 +1,6 @@
+.env
+.vscode
+.obsidian
+*.pyc
+Fim Graph*
+tba_env
