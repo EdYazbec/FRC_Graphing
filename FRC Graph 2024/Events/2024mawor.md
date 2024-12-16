@@ -1,0 +1,43 @@
+---
+key: 2024mawor
+event_type: 1
+name: NE District WPI Event
+week: 5
+type: Event
+---
+[[frc1027]]
+[[frc1100]]
+[[frc151]]
+[[frc157]]
+[[frc1757]]
+[[frc1768]]
+[[frc190]]
+[[frc2079]]
+[[frc2168]]
+[[frc2262]]
+[[frc237]]
+[[frc2370]]
+[[frc2712]]
+[[frc3205]]
+[[frc3323]]
+[[frc348]]
+[[frc3623]]
+[[frc4048]]
+[[frc4987]]
+[[frc5000]]
+[[frc5347]]
+[[frc5491]]
+[[frc5735]]
+[[frc5962]]
+[[frc6333]]
+[[frc6620]]
+[[frc6731]]
+[[frc69]]
+[[frc6933]]
+[[frc7760]]
+[[frc8013]]
+[[frc8544]]
+[[frc8604]]
+[[frc9056]]
+[[frc9101]]
+[[frc9644]]

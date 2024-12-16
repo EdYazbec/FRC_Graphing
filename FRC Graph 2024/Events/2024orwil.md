@@ -1,0 +1,43 @@
+---
+key: 2024orwil
+event_type: 1
+name: PNW District Wilsonville Event
+week: 4
+type: Event
+---
+[[frc1425]]
+[[frc1540]]
+[[frc2374]]
+[[frc2471]]
+[[frc2521]]
+[[frc2550]]
+[[frc2635]]
+[[frc2733]]
+[[frc2811]]
+[[frc2898]]
+[[frc2990]]
+[[frc3024]]
+[[frc3636]]
+[[frc3673]]
+[[frc4043]]
+[[frc4060]]
+[[frc4127]]
+[[frc4488]]
+[[frc4662]]
+[[frc4692]]
+[[frc5295]]
+[[frc5970]]
+[[frc5975]]
+[[frc6343]]
+[[frc6443]]
+[[frc6465]]
+[[frc6696]]
+[[frc6845]]
+[[frc7034]]
+[[frc753]]
+[[frc9430]]
+[[frc9567]]
+[[frc957]]
+[[frc9600]]
+[[frc9680]]
+[[frc997]]

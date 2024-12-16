@@ -1,0 +1,41 @@
+---
+key: 2024vafal
+event_type: 1
+name: CHS District Falls Church VA Event presented by Department of Energy
+week: 4
+type: Event
+---
+[[frc116]]
+[[frc122]]
+[[frc1418]]
+[[frc1731]]
+[[frc1885]]
+[[frc1895]]
+[[frc1915]]
+[[frc2028]]
+[[frc2186]]
+[[frc2363]]
+[[frc2421]]
+[[frc2900]]
+[[frc2912]]
+[[frc3359]]
+[[frc3373]]
+[[frc339]]
+[[frc401]]
+[[frc4472]]
+[[frc4821]]
+[[frc5243]]
+[[frc5338]]
+[[frc539]]
+[[frc5549]]
+[[frc5587]]
+[[frc611]]
+[[frc612]]
+[[frc619]]
+[[frc620]]
+[[frc623]]
+[[frc8230]]
+[[frc8590]]
+[[frc9033]]
+[[frc9235]]
+[[frc9403]]

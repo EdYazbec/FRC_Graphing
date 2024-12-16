@@ -1,0 +1,43 @@
+---
+key: 2024mawne
+event_type: 1
+name: NE District Western NE Event
+week: 4
+type: Event
+---
+[[frc1027]]
+[[frc1099]]
+[[frc155]]
+[[frc1699]]
+[[frc173]]
+[[frc1735]]
+[[frc1740]]
+[[frc176]]
+[[frc177]]
+[[frc178]]
+[[frc195]]
+[[frc2170]]
+[[frc228]]
+[[frc230]]
+[[frc236]]
+[[frc3182]]
+[[frc319]]
+[[frc3461]]
+[[frc3654]]
+[[frc467]]
+[[frc5142]]
+[[frc5494]]
+[[frc558]]
+[[frc571]]
+[[frc61]]
+[[frc6723]]
+[[frc6933]]
+[[frc7127]]
+[[frc7153]]
+[[frc7407]]
+[[frc8085]]
+[[frc839]]
+[[frc8709]]
+[[frc8889]]
+[[frc9710]]
+[[frc999]]

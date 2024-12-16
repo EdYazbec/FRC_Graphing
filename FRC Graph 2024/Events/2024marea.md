@@ -1,0 +1,43 @@
+---
+key: 2024marea
+event_type: 1
+name: NE District North Shore Event
+week: 3
+type: Event
+---
+[[frc1073]]
+[[frc1119]]
+[[frc1153]]
+[[frc1277]]
+[[frc1307]]
+[[frc138]]
+[[frc1474]]
+[[frc151]]
+[[frc1721]]
+[[frc1761]]
+[[frc1831]]
+[[frc2084]]
+[[frc2370]]
+[[frc2876]]
+[[frc3205]]
+[[frc3467]]
+[[frc348]]
+[[frc3958]]
+[[frc4169]]
+[[frc4176]]
+[[frc4311]]
+[[frc4546]]
+[[frc4761]]
+[[frc501]]
+[[frc509]]
+[[frc5563]]
+[[frc5902]]
+[[frc6201]]
+[[frc6328]]
+[[frc7674]]
+[[frc7913]]
+[[frc811]]
+[[frc8724]]
+[[frc88]]
+[[frc9443]]
+[[frc9729]]

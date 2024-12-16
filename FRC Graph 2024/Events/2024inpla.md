@@ -1,0 +1,42 @@
+---
+key: 2024inpla
+event_type: 1
+name: FIN District Plainfield Event presented by Carrier
+week: 4
+type: Event
+---
+[[frc1018]]
+[[frc135]]
+[[frc1501]]
+[[frc1741]]
+[[frc1747]]
+[[frc234]]
+[[frc2867]]
+[[frc292]]
+[[frc328]]
+[[frc3487]]
+[[frc3494]]
+[[frc3865]]
+[[frc3890]]
+[[frc3936]]
+[[frc3940]]
+[[frc3947]]
+[[frc4008]]
+[[frc447]]
+[[frc4485]]
+[[frc4580]]
+[[frc461]]
+[[frc4982]]
+[[frc5010]]
+[[frc6721]]
+[[frc6956]]
+[[frc7457]]
+[[frc7477]]
+[[frc7617]]
+[[frc829]]
+[[frc868]]
+[[frc8742]]
+[[frc9071]]
+[[frc9119]]
+[[frc9431]]
+[[frc9530]]

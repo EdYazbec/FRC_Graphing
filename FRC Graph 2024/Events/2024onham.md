@@ -1,0 +1,42 @@
+---
+key: 2024onham
+event_type: 1
+name: ONT District McMaster University
+week: 5
+type: Event
+---
+[[frc1114]]
+[[frc1241]]
+[[frc1285]]
+[[frc1325]]
+[[frc1334]]
+[[frc2056]]
+[[frc2200]]
+[[frc2386]]
+[[frc3161]]
+[[frc3560]]
+[[frc4308]]
+[[frc4617]]
+[[frc4976]]
+[[frc4992]]
+[[frc5406]]
+[[frc5409]]
+[[frc5672]]
+[[frc610]]
+[[frc6397]]
+[[frc6854]]
+[[frc6865]]
+[[frc7058]]
+[[frc7200]]
+[[frc7475]]
+[[frc7509]]
+[[frc7623]]
+[[frc7659]]
+[[frc771]]
+[[frc8349]]
+[[frc8764]]
+[[frc9263]]
+[[frc9575]]
+[[frc9678]]
+[[frc9782]]
+[[frc9785]]

@@ -1,0 +1,43 @@
+---
+key: 2024mabri
+event_type: 1
+name: NE District BSU Event
+week: 2
+type: Event
+---
+[[frc1119]]
+[[frc1153]]
+[[frc125]]
+[[frc1965]]
+[[frc2079]]
+[[frc2262]]
+[[frc2342]]
+[[frc2423]]
+[[frc246]]
+[[frc2713]]
+[[frc2877]]
+[[frc319]]
+[[frc3566]]
+[[frc3623]]
+[[frc3958]]
+[[frc4048]]
+[[frc4169]]
+[[frc467]]
+[[frc4908]]
+[[frc4909]]
+[[frc5000]]
+[[frc5422]]
+[[frc5494]]
+[[frc5813]]
+[[frc5962]]
+[[frc61]]
+[[frc6367]]
+[[frc6731]]
+[[frc69]]
+[[frc78]]
+[[frc8046]]
+[[frc8567]]
+[[frc8626]]
+[[frc88]]
+[[frc9286]]
+[[frc9644]]

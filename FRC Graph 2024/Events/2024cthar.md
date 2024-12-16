@@ -1,0 +1,40 @@
+---
+key: 2024cthar
+event_type: 1
+name: NE District Hartford Event
+week: 1
+type: Event
+---
+[[frc1071]]
+[[frc1699]]
+[[frc173]]
+[[frc1740]]
+[[frc175]]
+[[frc1768]]
+[[frc177]]
+[[frc181]]
+[[frc1991]]
+[[frc2064]]
+[[frc2170]]
+[[frc228]]
+[[frc236]]
+[[frc3146]]
+[[frc3182]]
+[[frc3314]]
+[[frc3464]]
+[[frc3634]]
+[[frc4572]]
+[[frc4987]]
+[[frc5112]]
+[[frc571]]
+[[frc5746]]
+[[frc6346]]
+[[frc7127]]
+[[frc7407]]
+[[frc7694]]
+[[frc7760]]
+[[frc7869]]
+[[frc8013]]
+[[frc8085]]
+[[frc9193]]
+[[frc97]]

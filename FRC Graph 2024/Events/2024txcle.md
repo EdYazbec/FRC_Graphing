@@ -1,0 +1,42 @@
+---
+key: 2024txcle
+event_type: 1
+name: FIT District Space City @ Friendswood Event
+week: 5
+type: Event
+---
+[[frc118]]
+[[frc2158]]
+[[frc231]]
+[[frc2585]]
+[[frc2587]]
+[[frc2950]]
+[[frc3035]]
+[[frc324]]
+[[frc4295]]
+[[frc5052]]
+[[frc5070]]
+[[frc5261]]
+[[frc5427]]
+[[frc5892]]
+[[frc5908]]
+[[frc5923]]
+[[frc5986]]
+[[frc6645]]
+[[frc7115]]
+[[frc7312]]
+[[frc7418]]
+[[frc7691]]
+[[frc8177]]
+[[frc8370]]
+[[frc8392]]
+[[frc8750]]
+[[frc8818]]
+[[frc8819]]
+[[frc8879]]
+[[frc9081]]
+[[frc9128]]
+[[frc9289]]
+[[frc9419]]
+[[frc9514]]
+[[frc9516]]

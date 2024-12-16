@@ -1,0 +1,42 @@
+---
+key: 2024nhgrs
+event_type: 1
+name: NE District Granite State Event
+week: 1
+type: Event
+---
+[[frc1058]]
+[[frc1247]]
+[[frc126]]
+[[frc1277]]
+[[frc1307]]
+[[frc131]]
+[[frc138]]
+[[frc1512]]
+[[frc157]]
+[[frc1922]]
+[[frc238]]
+[[frc2648]]
+[[frc3467]]
+[[frc3566]]
+[[frc4041]]
+[[frc4473]]
+[[frc4905]]
+[[frc4906]]
+[[frc4909]]
+[[frc5265]]
+[[frc5491]]
+[[frc5687]]
+[[frc58]]
+[[frc6153]]
+[[frc6328]]
+[[frc6329]]
+[[frc7913]]
+[[frc8023]]
+[[frc811]]
+[[frc8708]]
+[[frc8724]]
+[[frc9055]]
+[[frc9056]]
+[[frc9443]]
+[[frc95]]

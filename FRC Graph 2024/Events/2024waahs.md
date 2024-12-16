@@ -1,0 +1,42 @@
+---
+key: 2024waahs
+event_type: 1
+name: PNW District Auburn Event
+week: 2
+type: Event
+---
+[[frc1294]]
+[[frc1425]]
+[[frc1899]]
+[[frc1983]]
+[[frc2147]]
+[[frc2903]]
+[[frc2906]]
+[[frc2907]]
+[[frc2927]]
+[[frc2928]]
+[[frc2929]]
+[[frc2976]]
+[[frc3070]]
+[[frc3219]]
+[[frc3393]]
+[[frc3588]]
+[[frc3663]]
+[[frc3786]]
+[[frc3876]]
+[[frc4450]]
+[[frc4469]]
+[[frc4579]]
+[[frc488]]
+[[frc4911]]
+[[frc5295]]
+[[frc5588]]
+[[frc5683]]
+[[frc8032]]
+[[frc8051]]
+[[frc8302]]
+[[frc8303]]
+[[frc8896]]
+[[frc9023]]
+[[frc9442]]
+[[frc9446]]
