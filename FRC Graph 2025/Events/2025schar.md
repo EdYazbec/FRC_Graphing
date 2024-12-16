@@ -1,0 +1,43 @@
+---
+key: 2025schar
+event_type: 1
+name: FSC District Hartsville Event
+week: 2
+type: Event
+---
+[[frc10231]]
+[[frc10351]]
+[[frc10361]]
+[[frc10367]]
+[[frc10388]]
+[[frc1051]]
+[[frc10591]]
+[[frc10599]]
+[[frc10619]]
+[[frc10676]]
+[[frc1102]]
+[[frc1287]]
+[[frc1293]]
+[[frc1319]]
+[[frc1539]]
+[[frc1758]]
+[[frc281]]
+[[frc2815]]
+[[frc342]]
+[[frc343]]
+[[frc3489]]
+[[frc3490]]
+[[frc3976]]
+[[frc4083]]
+[[frc4451]]
+[[frc4533]]
+[[frc4967]]
+[[frc5130]]
+[[frc6167]]
+[[frc6366]]
+[[frc6961]]
+[[frc7085]]
+[[frc8137]]
+[[frc8575]]
+[[frc9315]]
+[[frc9571]]

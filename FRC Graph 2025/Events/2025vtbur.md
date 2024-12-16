@@ -1,0 +1,40 @@
+---
+key: 2025vtbur
+event_type: 1
+name: NE District UVM Event
+week: 5
+type: Event
+---
+[[frc10066]]
+[[frc10108]]
+[[frc10138]]
+[[frc1058]]
+[[frc1073]]
+[[frc1512]]
+[[frc157]]
+[[frc166]]
+[[frc1729]]
+[[frc2262]]
+[[frc237]]
+[[frc2370]]
+[[frc2423]]
+[[frc2523]]
+[[frc3323]]
+[[frc348]]
+[[frc4311]]
+[[frc4572]]
+[[frc4909]]
+[[frc5494]]
+[[frc5687]]
+[[frc5962]]
+[[frc6691]]
+[[frc69]]
+[[frc6933]]
+[[frc811]]
+[[frc839]]
+[[frc8421]]
+[[frc8544]]
+[[frc9096]]
+[[frc9101]]
+[[frc95]]
+[[frc97]]

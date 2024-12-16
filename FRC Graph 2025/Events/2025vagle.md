@@ -1,0 +1,41 @@
+---
+key: 2025vagle
+event_type: 1
+name: CHS District Glen Allen VA Event presented by Dominion Energy
+week: 1
+type: Event
+---
+[[frc10224]]
+[[frc10257]]
+[[frc10370]]
+[[frc1086]]
+[[frc1262]]
+[[frc1522]]
+[[frc1599]]
+[[frc1731]]
+[[frc1895]]
+[[frc2106]]
+[[frc2988]]
+[[frc2998]]
+[[frc3258]]
+[[frc3361]]
+[[frc3373]]
+[[frc339]]
+[[frc346]]
+[[frc404]]
+[[frc4286]]
+[[frc4472]]
+[[frc449]]
+[[frc4505]]
+[[frc539]]
+[[frc540]]
+[[frc5724]]
+[[frc5804]]
+[[frc614]]
+[[frc617]]
+[[frc6326]]
+[[frc6802]]
+[[frc8592]]
+[[frc9003]]
+[[frc9214]]
+[[frc9709]]

@@ -1,0 +1,43 @@
+---
+key: 2025inmis
+event_type: 1
+name: FIN District Mishawaka Event
+week: 1
+type: Event
+---
+[[frc10029]]
+[[frc10172]]
+[[frc1024]]
+[[frc10332]]
+[[frc10411]]
+[[frc10434]]
+[[frc135]]
+[[frc1501]]
+[[frc1555]]
+[[frc1646]]
+[[frc2171]]
+[[frc2197]]
+[[frc2867]]
+[[frc3147]]
+[[frc3176]]
+[[frc328]]
+[[frc3865]]
+[[frc3936]]
+[[frc447]]
+[[frc45]]
+[[frc461]]
+[[frc4926]]
+[[frc5010]]
+[[frc5484]]
+[[frc6721]]
+[[frc7457]]
+[[frc7477]]
+[[frc8103]]
+[[frc829]]
+[[frc8431]]
+[[frc9071]]
+[[frc9119]]
+[[frc9431]]
+[[frc9453]]
+[[frc9530]]
+[[frc9554]]

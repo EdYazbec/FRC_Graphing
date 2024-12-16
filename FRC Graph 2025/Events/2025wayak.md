@@ -1,0 +1,41 @@
+---
+key: 2025wayak
+event_type: 1
+name: PNW District SunDome Event
+week: 3
+type: Event
+---
+[[frc10416]]
+[[frc10423]]
+[[frc1318]]
+[[frc1595]]
+[[frc2147]]
+[[frc2811]]
+[[frc2926]]
+[[frc2930]]
+[[frc2990]]
+[[frc3712]]
+[[frc3812]]
+[[frc3826]]
+[[frc3876]]
+[[frc4060]]
+[[frc4061]]
+[[frc4125]]
+[[frc4131]]
+[[frc4513]]
+[[frc4692]]
+[[frc492]]
+[[frc4980]]
+[[frc5295]]
+[[frc5468]]
+[[frc5920]]
+[[frc6076]]
+[[frc6343]]
+[[frc6465]]
+[[frc749]]
+[[frc7627]]
+[[frc8532]]
+[[frc9450]]
+[[frc955]]
+[[frc9613]]
+[[frc9680]]

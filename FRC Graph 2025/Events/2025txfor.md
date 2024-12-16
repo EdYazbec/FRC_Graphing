@@ -1,0 +1,43 @@
+---
+key: 2025txfor
+event_type: 1
+name: FIT District Fort Worth Event
+week: 4
+type: Event
+---
+[[frc10032]]
+[[frc1745]]
+[[frc2714]]
+[[frc2848]]
+[[frc3005]]
+[[frc3282]]
+[[frc3355]]
+[[frc3676]]
+[[frc4192]]
+[[frc4206]]
+[[frc4295]]
+[[frc4364]]
+[[frc457]]
+[[frc4641]]
+[[frc4717]]
+[[frc5417]]
+[[frc5431]]
+[[frc5788]]
+[[frc6171]]
+[[frc6672]]
+[[frc6901]]
+[[frc7091]]
+[[frc7119]]
+[[frc7121]]
+[[frc7125]]
+[[frc7503]]
+[[frc7534]]
+[[frc7535]]
+[[frc8507]]
+[[frc8769]]
+[[frc8874]]
+[[frc9034]]
+[[frc9136]]
+[[frc9140]]
+[[frc9156]]
+[[frc9418]]

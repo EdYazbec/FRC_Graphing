@@ -1,0 +1,43 @@
+---
+key: 2025orsal
+event_type: 1
+name: PNW District Oregon State Fair Event
+week: 1
+type: Event
+---
+[[frc1359]]
+[[frc2147]]
+[[frc2374]]
+[[frc2521]]
+[[frc2550]]
+[[frc2635]]
+[[frc2811]]
+[[frc2898]]
+[[frc2926]]
+[[frc2990]]
+[[frc3024]]
+[[frc3674]]
+[[frc3712]]
+[[frc3786]]
+[[frc4060]]
+[[frc4061]]
+[[frc4125]]
+[[frc4513]]
+[[frc4692]]
+[[frc5683]]
+[[frc5920]]
+[[frc5937]]
+[[frc6343]]
+[[frc6465]]
+[[frc6845]]
+[[frc7034]]
+[[frc749]]
+[[frc753]]
+[[frc847]]
+[[frc8532]]
+[[frc9438]]
+[[frc955]]
+[[frc9567]]
+[[frc9600]]
+[[frc9613]]
+[[frc997]]
