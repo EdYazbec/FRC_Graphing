@@ -1,0 +1,534 @@
+,key,number,name,Event_1_Week,Event_1_Key,Event_1_fused,Event_2_Week,Event_2_Key,Event_2_fused,EPA,Win_Rate,EPA_Rank,EPA_Percentile
+0,frc1,1,The Juggernauts,0.0,miket,0miket,3.0,misal,3misal,22.68,0.5426,130,0.7456
+1,frc10181,10181,Forest Area Warriors,0.0,milac,0milac,2.0,mimus,2mimus,0.0,0.0,0,0.0
+2,frc1023,1023,Bedford Express,2.0,mibkn,2mibkn,0.0,mimil,0mimil,33.75,0.5985,36,0.9295
+3,frc1025,1025,Impi Warriors,2.0,mibkn,2mibkn,0.0,mifer,0mifer,31.34,0.614,57,0.8885
+4,frc10285,10285,Sacred Heart Blue and Gold,0.0,mifer,0mifer,3.0,mitry,3mitry,0.0,0.0,0,0.0
+5,frc10349,10349,Pontiac Firebirds,1.0,mike2,1mike2,3.0,mimas,3mimas,0.0,0.0,0,0.0
+6,frc10421,10421,Baldwin Panthers,4.0,mibig,4mibig,0.0,milac,0milac,0.0,0.0,0,0.0
+7,frc10473,10473,Team Lance-B-Bot,2.0,miber,2miber,1.0,misjo,1misjo,0.0,0.0,0,0.0
+8,frc10505,10505,NASA Technomos,1.0,miesc,1miesc,3.0,milsu,3milsu,0.0,0.0,0,0.0
+9,frc10547,10547,United Phoenix,4.0,mimid,4mimid,1.0,mimtp,1mimtp,0.0,0.0,0,0.0
+10,frc10560,10560,Grand Ledge Comets,1.0,mike2,1mike2,3.0,mimas,3mimas,0.0,0.0,0,0.0
+11,frc10577,10577,Tars (Truly astonishing robotic student),4.0,midet,4midet,0.0,mifer,0mifer,0.0,0.0,0,0.0
+12,frc10587,10587,Windover Wing Nuts,4.0,mimid,4mimid,1.0,mimtp,1mimtp,0.0,0.0,0,0.0
+13,frc10589,10589,Binary Crows,4.0,mibig,4mibig,1.0,miesc,1miesc,0.0,0.0,0,0.0
+14,frc10590,10590,Compass Team,2.0,midtr,2midtr,4.0,miliv,4miliv,0.0,0.0,0,0.0
+15,frc10595,10595,Big Bay de Noc Black Bears,4.0,mibig,4mibig,1.0,miesc,1miesc,0.0,0.0,0,0.0
+16,frc10605,10605,Engadine Eagles,3.0,milsu,3milsu,,,,0.0,0.0,0,0.0
+17,frc10606,10606,Foley Flare,4.0,mimcc,4mimcc,2.0,mimus,2mimus,0.0,0.0,0,0.0
+18,frc10607,10607,DAAS Jaguars,3.0,mibro,3mibro,2.0,midtr,2midtr,0.0,0.0,0,0.0
+19,frc10612,10612,Cougear,3.0,mitry,3mitry,,,,0.0,0.0,0,0.0
+20,frc10613,10613,AEA Alterbots,0.0,mimil,0mimil,2.0,mimus,2mimus,0.0,0.0,0,0.0
+21,frc10614,10614,AEA Robolution,0.0,mimil,0mimil,2.0,mimus,2mimus,0.0,0.0,0,0.0
+22,frc10622,10622,Gwinn Robotowners,4.0,mibig,4mibig,1.0,miesc,1miesc,0.0,0.0,0,0.0
+23,frc10629,10629,Bath High School Fighting Bees Robotics Team,2.0,mibkn,2mibkn,3.0,mimas,3mimas,0.0,0.0,0,0.0
+24,frc10630,10630,Michigan Collegiate Cougars,,,,,,,0.0,0.0,0,0.0
+25,frc10633,10633,BeeBotics,2.0,miber,2miber,4.0,miken,4miken,0.0,0.0,0,0.0
+26,frc10642,10642,Comstock Colts,0.0,mibat,0mibat,4.0,miken,4miken,0.0,0.0,0,0.0
+27,frc10651,10651,Gear Cats,0.0,mibat,0mibat,4.0,miken,4miken,0.0,0.0,0,0.0
+28,frc10652,10652,Lutheran Northwest Crusaders,4.0,mimcc,4mimcc,3.0,mitry,3mitry,0.0,0.0,0,0.0
+29,frc10654,10654,Shelby Tigers,4.0,miken,4miken,2.0,mimus,2mimus,0.0,0.0,0,0.0
+30,frc10656,10656,RataToaster (Valkyries),4.0,miliv,4miliv,3.0,misal,3misal,0.0,0.0,0,0.0
+31,frc10657,10657,North Central Academy,,,,,,,0.0,0.0,0,0.0
+32,frc10659,10659,Jaguar Byte,0.0,miket,0miket,4.0,miliv,4miliv,0.0,0.0,0,0.0
+33,frc10664,10664,Big Reds,4.0,miken,4miken,2.0,mimus,2mimus,0.0,0.0,0,0.0
+34,frc10665,10665,U-Robotics,4.0,mimcc,4mimcc,,,,0.0,0.0,0,0.0
+35,frc10666,10666,Green MachineZ,2.0,miber,2miber,1.0,misjo,1misjo,0.0,0.0,0,0.0
+36,frc10667,10667,Genesee Wolves,0.0,miket,0miket,4.0,mimid,4mimid,0.0,0.0,0,0.0
+37,frc10668,10668,WAY Flint,0.0,miket,0miket,4.0,mimcc,4mimcc,0.0,0.0,0,0.0
+38,frc10672,10672,Trojans,2.0,miber,2miber,4.0,miliv,4miliv,0.0,0.0,0,0.0
+39,frc10680,10680,Homer Trojans,0.0,mibat,0mibat,,,,0.0,0.0,0,0.0
+40,frc107,107,Team R.O.B.O.T.I.C.S.,4.0,mibig,4mibig,3.0,miwmi,3miwmi,23.47,0.5222,125,0.7554
+41,frc1076,1076,Pi Hi Samurai,3.0,misal,3misal,1.0,misjo,1misjo,32.53,0.6186,49,0.9041
+42,frc1188,1188,Ravens,0.0,mifer,0mifer,3.0,misal,3misal,18.73,0.5517,179,0.6497
+43,frc1189,1189,Gearheads,3.0,mibro,3mibro,4.0,mimcc,4mimcc,37.08,0.6017,19,0.9628
+44,frc123,123,Team - Cosmos,3.0,mibro,3mibro,2.0,midtr,2midtr,21.64,0.5122,143,0.7202
+45,frc1250,1250,Gator-Bots,3.0,mibro,3mibro,0.0,mifer,0mifer,28.29,0.5893,79,0.8454
+46,frc1322,1322,GRAYT Leviathons (Genesee Robotics Area Youth Team),1.0,miesc,1miesc,3.0,mimas,3mimas,14.58,0.4688,254,0.5029
+47,frc141,141,WOBOT,3.0,miwmi,3miwmi,,,,17.84,0.4681,202,0.6047
+48,frc1481,1481,The Riveters,0.0,milac,0milac,3.0,mimas,3mimas,24.66,0.5556,102,0.8004
+49,frc1498,1498,The Polar Pilots,0.0,miket,0miket,3.0,mitry,3mitry,0.0,0.0,0,0.0
+50,frc1502,1502,Technical Difficulties,0.0,milac,0milac,3.0,misal,3misal,16.65,0.4205,219,0.5714
+51,frc1504,1504,Desperate Penguins,3.0,mimas,3mimas,,,,15.88,0.3846,228,0.5538
+52,frc1506,1506,Metal Muscle,1.0,mike2,1mike2,3.0,mitry,3mitry,34.98,0.6333,31,0.9393
+53,frc1528,1528,MTR (Monroe Trojan Robotics),3.0,mibro,3mibro,,,,3.04,0.375,506,0.0098
+54,frc1596,1596,The Instigators,3.0,milsu,3milsu,1.0,mimtp,1mimtp,20.68,0.5862,155,0.6967
+55,frc1684,1684,The Chimeras,1.0,mike2,1mike2,3.0,mimas,3mimas,25.03,0.5556,95,0.8141
+56,frc1701,1701,RoboCubs,4.0,midet,4midet,0.0,mifer,0mifer,41.44,0.6284,12,0.9765
+57,frc1711,1711,RAPTORS,1.0,mimtp,1mimtp,2.0,mitvc,2mitvc,24.56,0.6078,104,0.7965
+58,frc1718,1718,The Fighting Pi,0.0,milac,0milac,4.0,mimcc,4mimcc,34.37,0.5417,34,0.9335
+59,frc1918,1918,NC GEARS,4.0,mibig,4mibig,2.0,mimus,2mimus,21.69,0.5172,142,0.7221
+60,frc1940,1940,Tech Tigers 1940,2.0,miber,2miber,4.0,mibig,4mibig,6.87,0.4,440,0.1389
+61,frc201,201,The FEDS,1.0,mimtp,1mimtp,3.0,mitry,3mitry,20.61,0.3966,157,0.6928
+62,frc2048,2048,The Pink Panthers,4.0,midet,4midet,2.0,midtr,2midtr,7.73,0.2292,421,0.1761
+63,frc2054,2054,Tech Vikes,1.0,misjo,1misjo,3.0,miwmi,3miwmi,42.88,0.8551,10,0.9804
+64,frc2075,2075,Enigma Robotics,4.0,miken,4miken,2.0,mimus,2mimus,46.82,0.7344,1,0.998
+65,frc2137,2137,The Oxford RoboCats,0.0,miket,0miket,3.0,misal,3misal,27.58,0.575,82,0.8395
+66,frc2145,2145,HAZMATS,0.0,miket,0miket,3.0,mitry,3mitry,37.17,0.5,18,0.9648
+67,frc216,216,More RoboDawgs,2.0,miber,2miber,4.0,miken,4miken,31.76,0.5726,53,0.8963
+68,frc217,217,ThunderChickens,2.0,miber,2miber,4.0,mimcc,4mimcc,12.85,0.4667,289,0.4344
+69,frc2224,2224,RoboPhoenix,4.0,midet,4midet,,,,14.22,0.5,261,0.4892
+70,frc2246,2246,The Army of Sum,0.0,milac,0milac,2.0,mitvc,2mitvc,7.4,0.25,430,0.1585
+71,frc226,226,Hammerheads,0.0,milac,0milac,3.0,mitry,3mitry,27.03,0.6094,87,0.8297
+72,frc2337,2337,EngiNERDs,1.0,mike2,1mike2,,,,29.21,0.6148,71,0.8611
+73,frc240,240,TEMPEST,2.0,mibel,2mibel,3.0,mibro,3mibro,10.58,0.4231,341,0.3327
+74,frc2405,2405,Techno Trojans,1.0,mimtp,1mimtp,2.0,mimus,2mimus,20.36,0.4643,159,0.6888
+75,frc244,244,RoboDawgs 3D,2.0,miber,2miber,4.0,miken,4miken,25.42,0.4221,93,0.818
+76,frc245,245,Adambots,3.0,mibro,3mibro,0.0,miket,0miket,32.7,0.625,45,0.9119
+77,frc247,247,Team 247 Da Bears,2.0,mibel,2mibel,0.0,mifer,0mifer,21.7,0.5333,141,0.7241
+78,frc2586,2586,Copper Bots,1.0,miesc,1miesc,3.0,milsu,3milsu,24.49,0.6,106,0.7926
+79,frc2591,2591,RedTails,2.0,midtr,2midtr,,,,9.54,0.4423,371,0.274
+80,frc2604,2604,Metal and Soul,3.0,mitry,3mitry,,,,9.29,0.4583,379,0.2583
+81,frc2611,2611,Jacktown Vectors,2.0,mibkn,2mibkn,,,,35.56,0.5789,28,0.9452
+82,frc2619,2619,The Charge,4.0,mimid,4mimid,1.0,mimtp,1mimtp,13.78,0.3846,272,0.4677
+83,frc2620,2620,Titans,3.0,mibro,3mibro,1.0,misjo,1misjo,23.39,0.5778,126,0.7534
+84,frc2673,2673,Tenacious Technicians,4.0,midet,4midet,2.0,midtr,2midtr,13.47,0.5313,278,0.456
+85,frc27,27,Team RUSH,,cmptx,Nonecmptx,0.0,miket,0miket,44.33,0.8452,6,0.9883
+86,frc2767,2767,Stryke Force,1.0,misjo,1misjo,3.0,miwmi,3miwmi,45.44,0.75,2,0.9961
+87,frc2771,2771,Code Red Robotics the Stray Dogs,4.0,miken,4miken,2.0,mimus,2mimus,21.76,0.6047,140,0.726
+88,frc280,280,TnT,3.0,mibro,3mibro,,,,15.83,0.4271,229,0.5519
+89,frc2832,2832,The Livonia Warriors,1.0,mike2,1mike2,4.0,miliv,4miliv,17.0,0.4828,215,0.5793
+90,frc2834,2834,Bionic Black Hawks,0.0,mimil,0mimil,2.0,mimus,2mimus,24.57,0.4125,103,0.7984
+91,frc2851,2851,Crevolution,3.0,mibro,3mibro,0.0,mifer,0mifer,27.86,0.6228,81,0.8415
+92,frc288,288,The RoboDawgs,2.0,miber,2miber,4.0,miken,4miken,21.0,0.5317,150,0.7065
+93,frc2959,2959,Robotarians,1.0,misjo,1misjo,3.0,miwmi,3miwmi,35.97,0.625,25,0.9511
+94,frc2960,2960,Automation Nation,2.0,mibkn,2mibkn,4.0,midet,4midet,20.27,0.5556,161,0.6849
+95,frc302,302,The Dragons,2.0,mibkn,2mibkn,0.0,mifer,0mifer,28.52,0.5317,76,0.8513
+96,frc308,308,Monsters,4.0,miliv,4miliv,0.0,mimil,0mimil,13.56,0.5,275,0.4618
+97,frc3096,3096,The Village Bulldogs,4.0,midet,4midet,2.0,midtr,2midtr,8.24,0.4444,410,0.1977
+98,frc3098,3098,Waterford Robotics,2.0,mibel,2mibel,4.0,mimcc,4mimcc,10.6,0.3621,340,0.3346
+99,frc314,314,The Megatron Oracles,1.0,mike2,1mike2,4.0,mimcc,4mimcc,24.21,0.5333,112,0.7808
+100,frc3175,3175,Knight Vision,2.0,miber,2miber,0.0,mifer,0mifer,37.02,0.6691,20,0.9609
+101,frc3234,3234,Red Arrows,4.0,miken,4miken,2.0,mimus,2mimus,17.51,0.4423,206,0.5969
+102,frc33,33,Killer Bees,0.0,mifer,0mifer,3.0,mitry,3mitry,43.99,0.7388,7,0.9863
+103,frc3302,3302,TurboTrojans,4.0,mimcc,4mimcc,3.0,mitry,3mitry,14.41,0.3036,257,0.4971
+104,frc3322,3322,Eagle Evolution,3.0,misal,3misal,,,,33.56,0.5574,37,0.9276
+105,frc3357,3357,COMETS,0.0,milac,0milac,3.0,miwmi,3miwmi,38.84,0.7581,15,0.9706
+106,frc3414,3414,Hackbots,3.0,mibro,3mibro,0.0,mifer,0mifer,35.01,0.5667,30,0.9413
+107,frc3452,3452,GreengineerZ,4.0,inwas,4inwas,2.0,miber,2miber,21.48,0.5333,144,0.7182
+108,frc3458,3458,Code Blue,2.0,mimus,2mimus,3.0,miwmi,3miwmi,8.63,0.4444,401,0.2153
+109,frc3534,3534,House of Cards,0.0,miket,0miket,3.0,mitry,3mitry,29.24,0.5175,70,0.863
+110,frc3536,3536,Electro Eagles,3.0,mimas,3mimas,1.0,mimtp,1mimtp,22.56,0.6136,132,0.7417
+111,frc3537,3537,Delta Force 3537,0.0,milac,0milac,2.0,mitvc,2mitvc,10.35,0.4333,345,0.3249
+112,frc3538,3538,RoboJackets,0.0,mifer,0mifer,2.0,mimus,2mimus,42.6,0.6984,11,0.9785
+113,frc3539,3539,Byting Bulldogs,2.0,miber,2miber,4.0,mimcc,4mimcc,38.76,0.6532,16,0.9687
+114,frc3546,3546,Buc'n'Gears,0.0,milac,0milac,3.0,miwmi,3miwmi,28.88,0.5417,73,0.8571
+115,frc3568,3568,Linden RoboEagles,1.0,mike2,1mike2,3.0,misal,3misal,16.53,0.4667,221,0.5675
+116,frc3572,3572,Wavelength,0.0,milac,0milac,2.0,mimus,2mimus,37.9,0.6797,17,0.9667
+117,frc3602,3602,RoboMos,1.0,miesc,1miesc,3.0,milsu,3milsu,19.82,0.5761,164,0.6791
+118,frc3603,3603,Cyber Coyotes,4.0,mibig,4mibig,0.0,milac,0milac,30.02,0.55,66,0.8708
+119,frc3604,3604,Goon Squad,3.0,mibro,3mibro,0.0,mifer,0mifer,37.0,0.6507,21,0.9589
+120,frc3618,3618,Petoskey Paladins,1.0,mimtp,1mimtp,2.0,mitvc,2mitvc,21.05,0.4783,148,0.7104
+121,frc3619,3619,Blackhawks,4.0,midet,4midet,2.0,midtr,2midtr,4.85,0.3333,482,0.0568
+122,frc3620,3620,Average Joes,3.0,mibro,3mibro,1.0,misjo,1misjo,31.59,0.5636,55,0.8924
+123,frc3632,3632,D-Techs,4.0,midet,4midet,2.0,midtr,2midtr,11.99,0.4688,302,0.409
+124,frc3641,3641,The Flying Toasters,2.0,mibel,2mibel,0.0,mimil,0mimil,30.06,0.5574,65,0.8728
+125,frc3655,3655,Tractor Technicians,0.0,mibat,0mibat,3.0,mimas,3mimas,30.08,0.6864,64,0.8748
+126,frc3656,3656,Dexter Dreadbots,2.0,mibkn,2mibkn,0.0,mimil,0mimil,33.25,0.6094,38,0.9256
+127,frc3658,3658,Robo - Beavers,3.0,misal,3misal,1.0,misjo,1misjo,18.93,0.4306,177,0.6536
+128,frc3667,3667,Mecanum Knights,3.0,mibro,3mibro,1.0,mike2,1mike2,18.72,0.5167,180,0.6477
+129,frc3668,3668,TroBots,2.0,mibkn,2mibkn,0.0,mimil,0mimil,21.88,0.4828,138,0.7299
+130,frc3688,3688,Norsemen,0.0,milac,0milac,2.0,mitvc,2mitvc,24.3,0.4634,109,0.7867
+131,frc3707,3707,TechnoDogs,3.0,mimas,3mimas,1.0,mimtp,1mimtp,29.73,0.569,69,0.865
+132,frc3767,3767,TC Titans,0.0,milac,0milac,2.0,mitvc,2mitvc,32.71,0.629,44,0.9139
+133,frc3770,3770,BlitzCreek,4.0,mimid,4mimid,2.0,mitvc,2mitvc,19.97,0.4457,163,0.681
+134,frc3773,3773,Arrowhead Robotics,2.0,mibel,2mibel,3.0,misal,3misal,8.94,0.2917,388,0.2407
+135,frc3875,3875,Red Storm Robotics,0.0,mibat,0mibat,4.0,miken,4miken,22.33,0.4773,135,0.7358
+136,frc4003,4003,TriSonics,1.0,mimtp,1mimtp,3.0,miwmi,3miwmi,18.39,0.4259,188,0.6321
+137,frc4004,4004,M.A.R.S. Rovers,4.0,mibig,4mibig,2.0,mimus,2mimus,24.18,0.4651,113,0.7789
+138,frc4130,4130,The Blue Devils,2.0,mibel,2mibel,4.0,miliv,4miliv,32.74,0.6695,43,0.9159
+139,frc4216,4216,Blue Ops Robotics,2.0,mibkn,2mibkn,1.0,misjo,1misjo,14.72,0.5185,248,0.5147
+140,frc4237,4237,Team Lance-A-Bot,2.0,miber,2miber,1.0,misjo,1misjo,32.09,0.5873,51,0.9002
+141,frc4325,4325,RoboRangers,2.0,miber,2miber,1.0,misjo,1misjo,16.36,0.5,226,0.5577
+142,frc4327,4327,Q Branch,0.0,bcvi,0bcvi,4.0,mibig,4mibig,17.29,0.4634,211,0.5871
+143,frc4362,4362,CSPA Gems,0.0,mimil,0mimil,3.0,mitry,3mitry,44.92,0.7571,5,0.9902
+144,frc4375,4375,Westend Gearbusters,1.0,miesc,1miesc,3.0,milsu,3milsu,18.1,0.5,195,0.6184
+145,frc4377,4377,Boyne City Blaze,0.0,milac,0milac,3.0,milsu,3milsu,18.05,0.5313,196,0.6164
+146,frc4381,4381,Twisted Devils,0.0,mibat,0mibat,2.0,miber,2miber,27.1,0.5614,86,0.8317
+147,frc4384,4384,Benzene Bots,0.0,mibat,0mibat,3.0,mitry,3mitry,1.51,0.44,510,0.002
+148,frc4390,4390,ATA Coregears,4.0,midet,4midet,2.0,midtr,2midtr,8.64,0.375,399,0.2192
+149,frc4391,4391,BraveBots,1.0,miesc,1miesc,3.0,milsu,3milsu,45.11,0.8281,4,0.9922
+150,frc4392,4392,The Deceivers,3.0,milsu,3milsu,0.0,mimil,0mimil,28.5,0.6339,77,0.8493
+151,frc4395,4395,Dundee Vi-Borgs,1.0,mike2,1mike2,3.0,misal,3misal,10.61,0.4615,339,0.3366
+152,frc4398,4398,Gladiators,3.0,milsu,3milsu,2.0,mitvc,2mitvc,15.64,0.4038,233,0.544
+153,frc4405,4405,The Atoms Family,2.0,mibel,2mibel,4.0,midet,4midet,30.89,0.5189,59,0.8845
+154,frc4422,4422,Twisted Angels,0.0,mibat,0mibat,2.0,miber,2miber,19.45,0.6512,170,0.6673
+155,frc4453,4453,The Red Hot Chili Bots,0.0,mibat,0mibat,3.0,mimas,3mimas,10.26,0.4884,346,0.3229
+156,frc453,453,Rockem Sockem Robotics,1.0,mike2,1mike2,4.0,mimcc,4mimcc,6.13,0.2917,459,0.1018
+157,frc4568,4568,Robot Commander,2.0,mibkn,2mibkn,3.0,misal,3misal,5.82,0.375,464,0.092
+158,frc4680,4680,AzTech Eagles,2.0,midtr,2midtr,0.0,mifer,0mifer,10.91,0.4828,327,0.3601
+159,frc469,469,Las Guerrillas,2.0,midtr,2midtr,3.0,mitry,3mitry,23.05,0.5667,128,0.7495
+160,frc4737,4737,Atomigators,2.0,mibel,2mibel,4.0,miliv,4miliv,9.81,0.3333,361,0.2935
+161,frc4758,4758,RoboBlazers,2.0,midtr,2midtr,,,,5.0,0.2917,479,0.0626
+162,frc4768,4768,"Cody ""The Green Comet""",3.0,mibro,3mibro,4.0,midet,4midet,14.72,0.5161,249,0.5127
+163,frc4776,4776,S.C.O.T.S. Bots,3.0,mimas,3mimas,2.0,mimus,2mimus,19.25,0.6207,172,0.6634
+164,frc4779,4779,RoboSapiens,2.0,mibel,2mibel,0.0,mimil,0mimil,33.04,0.6583,40,0.9217
+165,frc4810,4810,I AM Robot,0.0,mibat,0mibat,4.0,mimcc,4mimcc,19.07,0.5556,174,0.6595
+166,frc4827,4827,Minerbotics,1.0,miesc,1miesc,,,,9.77,0.4583,363,0.2896
+167,frc4835,4835,Junkyard Dawgs,4.0,mibig,4mibig,1.0,miesc,1miesc,14.71,0.5,250,0.5108
+168,frc4851,4851,JungleBots,4.0,midet,4midet,2.0,midtr,2midtr,11.43,0.5,320,0.3738
+169,frc4854,4854,Trobots,3.0,mibro,3mibro,4.0,midet,4midet,5.3,0.4583,474,0.0724
+170,frc4855,4855,Ramageddon,2.0,miber,2miber,4.0,miken,4miken,18.51,0.5484,183,0.6419
+171,frc494,494,Martians,4.0,mibig,4mibig,0.0,miket,0miket,27.27,0.5806,83,0.8376
+172,frc4956,4956,RoboSharks,3.0,mimas,3mimas,1.0,misjo,1misjo,20.93,0.4828,151,0.7045
+173,frc4961,4961,Shock and Awe-sum,1.0,mike2,1mike2,3.0,mitry,3mitry,6.37,0.4259,455,0.1096
+174,frc4967,4967,That ONE Team-OurNextEngineers,4.0,miken,4miken,3.0,milsu,3milsu,31.6,0.6552,54,0.8943
+175,frc4983,4983,IronBots,1.0,mimtp,1mimtp,2.0,mitvc,2mitvc,17.83,0.5682,203,0.6027
+176,frc4988,4988,Yooper Troopers,1.0,miesc,1miesc,3.0,milsu,3milsu,8.57,0.25,403,0.2114
+177,frc4994,4994,Kingston Robo-Cards,0.0,miket,0miket,3.0,misal,3misal,13.09,0.3269,286,0.4403
+178,frc4998,4998,TESLA,0.0,miket,0miket,3.0,mitry,3mitry,30.49,0.602,61,0.8806
+179,frc503,503,25 Years of Frog Force,,cmptx,Nonecmptx,2.0,mibkn,2mibkn,28.98,0.6111,72,0.8591
+180,frc5046,5046,Jacked Up Jackets,3.0,mibro,3mibro,1.0,mike2,1mike2,7.59,0.4,424,0.1703
+181,frc5050,5050,Cow Town Robotics,3.0,mibro,3mibro,0.0,mifer,0mifer,17.1,0.5536,213,0.5832
+182,frc5053,5053,Lakers,4.0,mimcc,4mimcc,3.0,mitry,3mitry,11.05,0.4194,324,0.3659
+183,frc5056,5056,MegaHurtz Robotics,2.0,miber,2miber,1.0,misjo,1misjo,19.69,0.5303,166,0.6751
+184,frc5065,5065,Knights #5065,4.0,mimcc,4mimcc,,,,3.4,0.46,500,0.0215
+185,frc5066,5066,Singularity,0.0,mimil,0mimil,3.0,misal,3misal,15.63,0.4839,234,0.5421
+186,frc5067,5067,Steiner Steel Storm,4.0,miliv,4miliv,3.0,misal,3misal,22.3,0.569,136,0.7339
+187,frc5084,5084,Team FridgeBot,0.0,miket,0miket,3.0,miwmi,3miwmi,24.72,0.5532,100,0.8043
+188,frc5086,5086,Cadillac Connectors,0.0,milac,0milac,2.0,mitvc,2mitvc,15.4,0.5517,240,0.5303
+189,frc5090,5090,TorqueNados,0.0,mifer,0mifer,,,,24.23,0.6333,110,0.7847
+190,frc51,51,Wings of Fire,2.0,mibel,2mibel,3.0,mimas,3mimas,28.8,0.5692,74,0.8552
+191,frc5110,5110,Robo Herd,0.0,milac,0milac,2.0,mitvc,2mitvc,18.42,0.4559,185,0.638
+192,frc5114,5114,Titanium Tigers,1.0,mike2,1mike2,3.0,misal,3misal,29.74,0.7333,68,0.8669
+193,frc5144,5144,LISD TECHnicians,2.0,mibkn,2mibkn,,,,27.16,0.4681,84,0.8356
+194,frc5150,5150,Hybrid Hornets,0.0,miket,0miket,3.0,misal,3misal,13.24,0.4167,283,0.4462
+195,frc5152,5152,Alotobots,0.0,mibat,0mibat,2.0,mimus,2mimus,36.85,0.629,22,0.9569
+196,frc5162,5162,The Big Red Theory,0.0,milac,0milac,3.0,milsu,3milsu,7.32,0.4231,432,0.1546
+197,frc5166,5166,Fabricators,3.0,mibro,3mibro,4.0,mimid,4mimid,34.1,0.6167,35,0.9315
+198,frc5167,5167,Vi-Bots,2.0,mibel,2mibel,0.0,mifer,0mifer,18.16,0.5345,193,0.6223
+199,frc5182,5182,Chieftainators,2.0,miber,2miber,1.0,misjo,1misjo,6.49,0.25,450,0.1194
+200,frc5183,5183,Devil Bots,1.0,mike2,1mike2,3.0,milsu,3milsu,9.06,0.5,382,0.2524
+201,frc5193,5193,Pantheon,4.0,mimid,4mimid,,,,10.62,0.4167,338,0.3386
+202,frc5197,5197,Northwestern,4.0,midet,4midet,2.0,midtr,2midtr,10.06,0.4167,353,0.3092
+203,frc5205,5205,FullMetal-Jackets,2.0,mibkn,2mibkn,4.0,miliv,4miliv,9.02,0.4333,384,0.2485
+204,frc5213,5213,St. Ignace SHIELD,3.0,milsu,3milsu,2.0,mitvc,2mitvc,12.19,0.4167,298,0.4168
+205,frc5214,5214,The Mighty CavBots,4.0,mimcc,4mimcc,3.0,mitry,3mitry,7.65,0.375,422,0.1742
+206,frc5216,5216,E-Ville Empire,4.0,mimid,4mimid,1.0,mimtp,1mimtp,29.94,0.6667,67,0.8689
+207,frc5225,5225,The Shambotz,2.0,mibkn,2mibkn,4.0,mimcc,4mimcc,4.61,0.375,488,0.045
+208,frc5227,5227,Eagle Elite,2.0,miber,2miber,1.0,misjo,1misjo,17.35,0.431,210,0.589
+209,frc5229,5229,Heritage Hawkbots,4.0,mimid,4mimid,1.0,mimtp,1mimtp,14.06,0.4559,265,0.4814
+210,frc5231,5231,The Radical Jays,4.0,mimid,4mimid,1.0,mimtp,1mimtp,10.71,0.3333,333,0.3483
+211,frc5234,5234,MarauderBots,2.0,mibkn,2mibkn,0.0,miket,0miket,12.13,0.3167,299,0.4149
+212,frc5235,5235,Gears of Fortune,0.0,miket,0miket,3.0,mitry,3mitry,6.43,0.2917,454,0.1115
+213,frc5239,5239,Harper Woods Steamworks,2.0,mibel,2mibel,4.0,mimcc,4mimcc,3.26,0.3125,503,0.0157
+214,frc5247,5247,Red Devil Robotics,1.0,miesc,1miesc,2.0,mitvc,2mitvc,11.02,0.375,325,0.364
+215,frc5248,5248,Robo-Saxons,0.0,mibat,0mibat,3.0,miwmi,3miwmi,11.44,0.4259,317,0.3796
+216,frc5256,5256,Atomics,4.0,miken,4miken,3.0,miwmi,3miwmi,23.85,0.5333,119,0.7671
+217,frc5260,5260,Owosso Robotics,4.0,miken,4miken,0.0,miket,0miket,7.41,0.3125,429,0.1605
+218,frc5263,5263,Robo-Bucs,2.0,mibel,2mibel,3.0,mibro,3mibro,4.33,0.3958,492,0.0372
+219,frc5282,5282,Railroader Robotics,0.0,miket,0miket,3.0,mitry,3mitry,15.47,0.3462,237,0.5362
+220,frc5314,5314,Ice Bots,3.0,milsu,3milsu,1.0,mimtp,1mimtp,13.12,0.5714,285,0.4423
+221,frc5352,5352,Controlled Chaos,3.0,mimas,3mimas,1.0,mimtp,1mimtp,0.0,0.0,0,0.0
+222,frc5424,5424,Rogue Robots,4.0,mimid,4mimid,2.0,mitvc,2mitvc,23.9,0.5,118,0.7691
+223,frc5436,5436,Cyber Cats,0.0,mifer,0mifer,3.0,mitry,3mitry,40.28,0.7097,13,0.9746
+224,frc5460,5460,Strike Zone,0.0,miket,0miket,3.0,misal,3misal,45.26,0.642,3,0.9941
+225,frc5462,5462,2Paw Robotics,2.0,miber,2miber,4.0,mibig,4mibig,17.49,0.4194,208,0.593
+226,frc5467,5467,RoboTractors,0.0,mifer,0mifer,4.0,mimcc,4mimcc,5.45,0.4167,471,0.0783
+227,frc5470,5470,The Cowpunchers,4.0,miken,4miken,3.0,miwmi,3miwmi,9.87,0.375,360,0.2955
+228,frc5478,5478,Pershing Doughbots,2.0,midtr,2midtr,3.0,mitry,3mitry,7.61,0.4167,423,0.1722
+229,frc548,548,Robostangs,2.0,mibkn,2mibkn,0.0,mimil,0mimil,32.76,0.5741,42,0.9178
+230,frc5486,5486,Robotic Turmoil,1.0,miesc,1miesc,3.0,milsu,3milsu,13.65,0.4667,274,0.4638
+231,frc5498,5498,The Wired Devils,2.0,mibel,2mibel,0.0,mifer,0mifer,10.83,0.4167,331,0.3523
+232,frc5501,5501,Bobcats,0.0,mibat,0mibat,3.0,milsu,3milsu,18.31,0.5938,189,0.6301
+233,frc5504,5504,The Loose Connections,4.0,mimid,4mimid,2.0,mitvc,2mitvc,8.72,0.4167,393,0.2309
+234,frc5505,5505,V2 - Volts Squared,4.0,mibig,4mibig,0.0,milac,0milac,20.87,0.6354,152,0.7025
+235,frc5509,5509,Like a Boss,4.0,mimid,4mimid,2.0,mimus,2mimus,11.68,0.4138,307,0.3992
+236,frc5517,5517,The Engineers on Fire,1.0,mike2,1mike2,3.0,mimas,3mimas,8.97,0.2083,387,0.2427
+237,frc5525,5525,Alcona Tool Cats,4.0,mimid,4mimid,,,,22.68,0.6034,131,0.7436
+238,frc5527,5527,Cyber Phoenix,1.0,mike2,1mike2,3.0,mitry,3mitry,10.65,0.4808,337,0.3405
+239,frc5530,5530,Greenhills Lawnmowers,4.0,midet,4midet,0.0,mifer,0mifer,28.01,0.5227,80,0.8434
+240,frc5531,5531,Orange Crush,2.0,mibel,2mibel,3.0,mibro,3mibro,8.17,0.4583,411,0.1957
+241,frc5532,5532,The Panther Bots,4.0,midet,4midet,2.0,midtr,2midtr,6.46,0.3333,453,0.1135
+242,frc5533,5533,Electric Horse Power,1.0,mike2,1mike2,3.0,misal,3misal,18.13,0.5476,194,0.6204
+243,frc5534,5534,Onaway Onabots,1.0,mimtp,1mimtp,2.0,mitvc,2mitvc,21.92,0.5517,137,0.7319
+244,frc5535,5535,Bionic Bison,2.0,miber,2miber,4.0,mibig,4mibig,18.24,0.4483,190,0.6282
+245,frc5538,5538,Vikingbots,1.0,mike2,1mike2,4.0,mimid,4mimid,9.47,0.375,372,0.272
+246,frc5547,5547,The Talons,1.0,miesc,1miesc,3.0,milsu,3milsu,15.17,0.5,243,0.5245
+247,frc5555,5555,Spartans,2.0,mibel,2mibel,3.0,mitry,3mitry,11.83,0.3462,305,0.4031
+248,frc5559,5559,Gear Grinders,2.0,mibkn,2mibkn,1.0,misjo,1misjo,6.66,0.3125,447,0.1252
+249,frc5560,5560,Central Lake Trobotics,1.0,mimtp,1mimtp,2.0,mitvc,2mitvc,11.67,0.2917,308,0.3973
+250,frc5561,5561,Raider Robotics,1.0,mike2,1mike2,0.0,mimil,0mimil,17.52,0.5,205,0.5988
+251,frc5567,5567,Code Red Robotics,2.0,mibel,2mibel,3.0,misal,3misal,22.55,0.4483,133,0.7397
+252,frc5577,5577,Kinematic Wolves,4.0,midet,4midet,0.0,mifer,0mifer,21.27,0.4773,145,0.7162
+253,frc5603,5603,The WarriorBots,0.0,milac,0milac,4.0,mimid,4mimid,22.55,0.4828,134,0.7378
+254,frc5610,5610,Turbulence,1.0,misjo,1misjo,3.0,miwmi,3miwmi,18.22,0.5357,191,0.6262
+255,frc5612,5612,Robo-Raptors,1.0,mike2,1mike2,,,,24.71,0.6111,101,0.8023
+256,frc5619,5619,RoboJags,3.0,mibro,3mibro,4.0,midet,4midet,5.49,0.3333,469,0.0822
+257,frc5623,5623,Robotic Rams,0.0,mibat,0mibat,3.0,mitry,3mitry,8.75,0.25,391,0.2348
+258,frc5641,5641,Byron Robotics,3.0,mibro,3mibro,0.0,miket,0miket,11.49,0.4318,315,0.3836
+259,frc5642,5642,Mumford Mechanical Mustangs,2.0,midtr,2midtr,0.0,mifer,0mifer,5.92,0.52,462,0.0959
+260,frc5660,5660,Symmetrical Chaos,1.0,mike2,1mike2,3.0,misal,3misal,21.16,0.3793,147,0.7123
+261,frc5674,5674,The Gearhounds,0.0,mibat,0mibat,3.0,mimas,3mimas,16.44,0.3846,224,0.5616
+262,frc5675,5675,WiredCats,1.0,misjo,1misjo,3.0,miwmi,3miwmi,32.58,0.68,47,0.908
+263,frc5676,5676,The H.E.R.O.E.S,0.0,mibat,0mibat,2.0,mibkn,2mibkn,26.97,0.625,88,0.8278
+264,frc5695,5695,Heavy Duty Eagles,2.0,mibel,2mibel,4.0,midet,4midet,6.96,0.3889,438,0.1429
+265,frc5697,5697,Bearcats,0.0,miket,0miket,2.0,mimus,2mimus,9.94,0.3333,359,0.2975
+266,frc5702,5702,Robotowatomi,1.0,miesc,1miesc,,,,5.26,0.3542,475,0.0705
+267,frc5704,5704,Weird & Wired,3.0,mimas,3mimas,4.0,mimid,4mimid,9.37,0.375,377,0.2622
+268,frc5706,5706,Tahquamenon Phenomenon,4.0,mibig,4mibig,1.0,miesc,1miesc,8.62,0.4583,402,0.2133
+269,frc5708,5708,Zebrotics,0.0,mifer,0mifer,3.0,misal,3misal,18.56,0.45,181,0.6458
+270,frc5712,5712,Hemlock's Gray Matter,1.0,mimtp,1mimtp,3.0,miwmi,3miwmi,43.66,0.7465,8,0.9843
+271,frc573,573,Mech Warriors,0.0,miket,0miket,3.0,mitry,3mitry,23.14,0.5714,127,0.7515
+272,frc5756,5756,REC'in Crew,4.0,midet,4midet,2.0,midtr,2midtr,10.86,0.5172,330,0.3542
+273,frc5843,5843,Flurb,3.0,misal,3misal,1.0,misjo,1misjo,24.99,0.5,96,0.8121
+274,frc5860,5860,Full Metal Muskrats,0.0,mifer,0mifer,4.0,mimcc,4mimcc,15.47,0.4194,239,0.5323
+275,frc5878,5878,The Great Lakers,2.0,midtr,2midtr,1.0,mike2,1mike2,10.71,0.4828,332,0.3503
+276,frc5901,5901,Electric Eels,4.0,midet,4midet,2.0,midtr,2midtr,16.44,0.4545,223,0.5636
+277,frc5907,5907,CC Shambots,1.0,mike2,1mike2,4.0,miliv,4miliv,35.05,0.75,29,0.9432
+278,frc5926,5926,Da MOOse,4.0,mimcc,4mimcc,1.0,mimtp,1mimtp,16.75,0.45,218,0.5734
+279,frc5927,5927,Globetrotters,1.0,misjo,1misjo,3.0,miwmi,3miwmi,23.63,0.5167,122,0.7613
+280,frc5980,5980,East Grand Rapids Robotics,0.0,mibat,0mibat,3.0,milsu,3milsu,11.44,0.3333,318,0.3777
+281,frc5982,5982,Circuits of Destruction,4.0,mimid,4mimid,1.0,mimtp,1mimtp,16.55,0.5455,220,0.5695
+282,frc6002,6002,ZooBOTix,0.0,mibat,0mibat,3.0,miwmi,3miwmi,34.62,0.5625,33,0.9354
+283,frc6005,6005,Cardinaltronics,4.0,mibig,4mibig,0.0,milac,0milac,12.03,0.4839,301,0.411
+284,frc6029,6029,Railbots,3.0,mibro,3mibro,2.0,midtr,2midtr,9.45,0.3966,374,0.2681
+285,frc6033,6033,Gadget Agents,4.0,mimid,4mimid,1.0,mimtp,1mimtp,7.96,0.3542,416,0.1859
+286,frc6057,6057,Thunderbots,2.0,mibel,2mibel,3.0,mibro,3mibro,9.78,0.5417,362,0.2916
+287,frc6067,6067,Underdogs,0.0,miket,0miket,4.0,mimid,4mimid,18.96,0.5152,175,0.6575
+288,frc6071,6071,The Aluminators,4.0,mimid,4mimid,1.0,mimtp,1mimtp,10.56,0.4074,342,0.3307
+289,frc6073,6073,Cav-Bots,4.0,mimid,4mimid,,,,16.85,0.4444,217,0.5753
+290,frc6077,6077,Wiking Kujon,3.0,milsu,3milsu,2.0,mitvc,2mitvc,18.83,0.5172,178,0.6517
+291,frc6078,6078,RoboRams,1.0,mike2,1mike2,3.0,mimas,3mimas,20.74,0.4524,153,0.7006
+292,frc6079,6079,JET SET,1.0,miesc,1miesc,3.0,milsu,3milsu,13.35,0.4516,279,0.454
+293,frc6081,6081,Digital Dislocators,0.0,mibat,0mibat,3.0,mibro,3mibro,35.63,0.7434,26,0.9491
+294,frc6085,6085,Green Devil Bots,1.0,mike2,1mike2,3.0,mimas,3mimas,14.27,0.3333,260,0.4912
+295,frc6087,6087,Cybertronic Lancers,0.0,milac,0milac,2.0,mitvc,2mitvc,18.96,0.5333,176,0.6556
+296,frc6088,6088,Stephenson Eagles,1.0,miesc,1miesc,4.0,mimid,4mimid,12.5,0.4333,294,0.4247
+297,frc6090,6090,Wayland Wildcats,4.0,miken,4miken,2.0,mimus,2mimus,36.57,0.6371,23,0.955
+298,frc6091,6091,Eagle 1,1.0,mike2,1mike2,2.0,mitvc,2mitvc,6.73,0.2708,445,0.1292
+299,frc6094,6094,Manic Mechanics,4.0,mibig,4mibig,2.0,mimus,2mimus,7.75,0.2083,420,0.1781
+300,frc6096,6096,UPSM Cobrots,4.0,midet,4midet,2.0,midtr,2midtr,5.34,0.46,473,0.0744
+301,frc6098,6098,bIrobot,2.0,miber,2miber,4.0,mibig,4mibig,15.47,0.5303,238,0.5342
+302,frc6099,6099,Knight Riders,2.0,midtr,2midtr,4.0,mimcc,4mimcc,15.03,0.4167,245,0.5205
+303,frc6100,6100,MS Mobots,4.0,mibig,4mibig,1.0,mimtp,1mimtp,20.43,0.4706,158,0.6908
+304,frc6101,6101,Strange Quarks,4.0,miliv,4miliv,3.0,misal,3misal,10.97,0.4583,326,0.362
+305,frc6112,6112,Cyberstangs,1.0,miesc,1miesc,3.0,milsu,3milsu,10.53,0.3148,343,0.3288
+306,frc6113,6113,M.A.R.C. 1,2.0,miber,2miber,1.0,miesc,1miesc,13.26,0.5,281,0.4501
+307,frc6114,6114,Hamilton CyberHawks,1.0,misjo,1misjo,3.0,miwmi,3miwmi,25.48,0.5357,92,0.82
+308,frc6120,6120,CyberStangs,4.0,mimcc,4mimcc,0.0,mimil,0mimil,20.7,0.5238,154,0.6986
+309,frc6121,6121,RoboVikes,3.0,milsu,3milsu,1.0,mimtp,1mimtp,25.16,0.6222,94,0.816
+310,frc6128,6128,M.O.T.O.R (More Than Our Robot),2.0,mimus,2mimus,3.0,miwmi,3miwmi,17.01,0.3654,214,0.5812
+311,frc6152,6152,Robo-Falcons,4.0,miliv,4miliv,3.0,misal,3misal,17.87,0.4186,201,0.6067
+312,frc6190,6190,Cybernetic Crusaders,4.0,miliv,4miliv,3.0,misal,3misal,6.8,0.2083,442,0.135
+313,frc6344,6344,Yale Jiggawattz,2.0,mibel,2mibel,0.0,mimil,0mimil,17.88,0.5556,199,0.6106
+314,frc6345,6345,Nimrod Nation,1.0,miesc,1miesc,3.0,milsu,3milsu,9.69,0.375,366,0.2838
+315,frc6428,6428,STEMINEERS,4.0,miken,4miken,3.0,miwmi,3miwmi,10.24,0.3333,347,0.3209
+316,frc6528,6528,Terror Bytes,2.0,mibel,2mibel,1.0,misjo,1misjo,26.53,0.6,90,0.8239
+317,frc6532,6532,TechnoPaths,2.0,midtr,2midtr,4.0,miliv,4miliv,15.65,0.4259,232,0.546
+318,frc6533,6533,BeaverTech,4.0,mimid,4mimid,1.0,mimtp,1mimtp,5.51,0.3333,468,0.0841
+319,frc6538,6538,Linc-Bots,2.0,mibel,2mibel,0.0,mimil,0mimil,17.49,0.551,207,0.5949
+320,frc6548,6548,Perry RAMBOTS,1.0,misjo,1misjo,3.0,miwmi,3miwmi,24.14,0.5455,114,0.7769
+321,frc6556,6556,Spartan Robotics,2.0,mibkn,2mibkn,3.0,mimas,3mimas,8.99,0.5385,386,0.2446
+322,frc6558,6558,Aluminum Sting,1.0,miesc,1miesc,3.0,milsu,3milsu,7.54,0.4167,425,0.1683
+323,frc6561,6561,Omecha Wolf Pack,0.0,milac,0milac,2.0,mimus,2mimus,0.0,0.0,0,0.0
+324,frc6566,6566,Battering Rams,2.0,mibel,2mibel,0.0,mifer,0mifer,14.07,0.3462,263,0.4853
+325,frc6567,6567,The Broken Drill Bits,0.0,mifer,0mifer,,,,10.49,0.4808,344,0.3268
+326,frc6569,6569,Gladiators,1.0,miesc,1miesc,3.0,milsu,3milsu,26.68,0.5902,89,0.8258
+327,frc6570,6570,Whiteford Bobcats,0.0,mifer,0mifer,1.0,misjo,1misjo,21.19,0.6,146,0.7143
+328,frc6588,6588,Counter-Torque Robotics,2.0,miber,2miber,1.0,misjo,1misjo,11.24,0.3846,322,0.3699
+329,frc6591,6591,Panther Powered Robotics 6591,2.0,mibkn,2mibkn,3.0,mimas,3mimas,7.44,0.375,428,0.1624
+330,frc66,66,Grizzly Robotics,2.0,mibel,2mibel,0.0,mimil,0mimil,15.59,0.4138,235,0.5401
+331,frc6610,6610,Robot Roll Call,1.0,mike2,1mike2,4.0,mimid,4mimid,6.3,0.3958,457,0.1057
+332,frc6615,6615,Bellevillains,2.0,mibel,2mibel,4.0,midet,4midet,24.79,0.5781,99,0.8063
+333,frc6616,6616,Mechanical Pumas,4.0,midet,4midet,2.0,midtr,2midtr,12.09,0.5385,300,0.4129
+334,frc6618,6618,WARHBOTS,2.0,mibel,2mibel,0.0,mifer,0mifer,19.76,0.6122,165,0.6771
+335,frc6631,6631,Rocket Robotics,2.0,mibkn,2mibkn,4.0,mimid,4mimid,7.8,0.3542,419,0.18
+336,frc6637,6637,BetaWolves,3.0,mibro,3mibro,1.0,miesc,1miesc,14.86,0.4643,246,0.5186
+337,frc6642,6642,Harrison Stingers of Steel,4.0,mibig,4mibig,1.0,mimtp,1mimtp,9.66,0.36,369,0.2779
+338,frc67,67,The HOT Team,0.0,mimil,0mimil,3.0,misal,3misal,35.57,0.7143,27,0.9472
+339,frc6753,6753,CBA RoboKings,4.0,mimid,4mimid,0.0,mimil,0mimil,18.48,0.5333,184,0.6399
+340,frc68,68,Truck Town Thunder,3.0,mimas,3mimas,,,,27.12,0.5965,85,0.8337
+341,frc6861,6861,The Tyros Team,4.0,miliv,4miliv,,,,19.29,0.4483,171,0.6654
+342,frc6877,6877,Mechanical Mustangs,4.0,mibig,4mibig,1.0,misjo,1misjo,12.56,0.4444,292,0.4286
+343,frc6914,6914,Retro5ive,3.0,mibro,3mibro,2.0,midtr,2midtr,14.43,0.4643,256,0.499
+344,frc6963,6963,Blood Sweat and Gears,4.0,mibig,4mibig,1.0,mimtp,1mimtp,11.35,0.5,321,0.3718
+345,frc70,70,More Martians,4.0,mibig,4mibig,0.0,miket,0miket,28.56,0.6207,75,0.8532
+346,frc7054,7054,SC Sailors,4.0,mibig,4mibig,2.0,mimus,2mimus,13.25,0.375,282,0.4481
+347,frc7056,7056,The F.A.S.T. Team - Fowlerville Area Scientific Technicians,0.0,mimil,0mimil,,,,30.17,0.65,63,0.8767
+348,frc7109,7109,Clare Chaos Theory,4.0,mimid,4mimid,1.0,mimtp,1mimtp,8.65,0.38,398,0.2211
+349,frc7145,7145,Robocanes,4.0,midet,4midet,2.0,midtr,2midtr,9.99,0.4286,358,0.2994
+350,frc7147,7147,Rising Falcons,0.0,mimil,0mimil,3.0,misal,3misal,10.88,0.3542,328,0.3581
+351,frc7155,7155,The Robotic Rangers,0.0,milac,0milac,2.0,mitvc,2mitvc,10.66,0.375,336,0.3425
+352,frc7160,7160,Ludington O-Bots,4.0,mibig,4mibig,2.0,mitvc,2mitvc,16.96,0.5167,216,0.5773
+353,frc7166,7166,Red Thunder Robotics,3.0,mimas,3mimas,0.0,mimil,0mimil,28.41,0.5185,78,0.8474
+354,frc7174,7174,Charger Robotics,0.0,mifer,0mifer,3.0,misal,3misal,30.31,0.6944,62,0.8787
+355,frc7178,7178,Yeti,4.0,miliv,4miliv,0.0,mimil,0mimil,23.96,0.5111,117,0.771
+356,frc7188,7188,SaddleBots,3.0,mibro,3mibro,4.0,mimcc,4mimcc,17.95,0.4615,198,0.6125
+357,frc7191,7191,Gator Nation Innovators,3.0,mibro,3mibro,2.0,midtr,2midtr,7.03,0.4167,437,0.1448
+358,frc7195,7195,Twin River Robotics,0.0,miket,0miket,2.0,mitvc,2mitvc,9.3,0.4444,378,0.2603
+359,frc7196,7196,Tech Tigers,4.0,midet,4midet,2.0,midtr,2midtr,15.76,0.5167,230,0.5499
+360,frc7197,7197,Mountie Megabots,0.0,mibat,0mibat,2.0,mibkn,2mibkn,32.62,0.5965,46,0.91
+361,frc7202,7202,Cyber Orioles,3.0,milsu,3milsu,0.0,mimil,0mimil,14.71,0.2692,251,0.5088
+362,frc7203,7203,21st Century Cyber Bearcats,1.0,misjo,1misjo,3.0,miwmi,3miwmi,4.81,0.2917,483,0.0548
+363,frc7210,7210,RoboJackets  7210,1.0,misjo,1misjo,3.0,miwmi,3miwmi,6.53,0.375,448,0.1233
+364,frc7211,7211,Hollywood,4.0,mibig,4mibig,1.0,mike2,1mike2,23.7,0.5698,121,0.7632
+365,frc7220,7220,Steel Falcons,2.0,mibel,2mibel,4.0,miliv,4miliv,11.96,0.3077,303,0.407
+366,frc7221,7221,Viking Robotics,2.0,mibkn,2mibkn,0.0,mimil,0mimil,6.11,0.375,460,0.0998
+367,frc7225,7225,Mechatronic Mustangs,0.0,mimil,0mimil,3.0,misal,3misal,16.17,0.4063,227,0.5558
+368,frc7226,7226,Error 404,0.0,mibat,0mibat,3.0,mimas,3mimas,31.88,0.6017,52,0.8982
+369,frc7244,7244,Huskies Robotics,0.0,milac,0milac,,,,0.0,0.0,0,0.0
+370,frc7247,7247,Error 404,2.0,mibkn,2mibkn,4.0,mimcc,4mimcc,14.13,0.5938,262,0.4873
+371,frc7248,7248,Tactical Hams,4.0,miken,4miken,3.0,miwmi,3miwmi,10.0,0.2917,357,0.3014
+372,frc7250,7250,OsCODEa 0w|5,0.0,milac,0milac,3.0,milsu,3milsu,11.54,0.48,312,0.3894
+373,frc7254,7254,Knowmads,0.0,mibat,0mibat,3.0,mimas,3mimas,10.12,0.3333,352,0.3112
+374,frc7256,7256,Irish Robotics,0.0,mibat,0mibat,1.0,misjo,1misjo,8.41,0.5,408,0.2016
+375,frc7289,7289,Blue Eagles,2.0,mibkn,2mibkn,3.0,mimas,3mimas,18.39,0.5862,186,0.636
+376,frc74,74,Team CHAOS,1.0,misjo,1misjo,3.0,miwmi,3miwmi,23.81,0.6129,120,0.7652
+377,frc7491,7491,Cyber Soldiers,0.0,miket,0miket,3.0,mimas,3mimas,18.04,0.4677,197,0.6145
+378,frc7501,7501,Golden Gears,2.0,mibkn,2mibkn,0.0,milac,0milac,24.54,0.5439,105,0.7945
+379,frc7553,7553,OSTC -  SWEET BOTS,4.0,miliv,4miliv,0.0,mimil,0mimil,17.43,0.5156,209,0.591
+380,frc7597,7597,Team HorsePowered,2.0,mibkn,2mibkn,0.0,mifer,0mifer,1.06,0.375,511,0.0
+381,frc7598,7598,SCA Constellations,4.0,miliv,4miliv,2.0,mitvc,2mitvc,9.73,0.3542,364,0.2877
+382,frc7656,7656,MC Hammers,2.0,mibkn,2mibkn,4.0,midet,4midet,14.46,0.4828,255,0.501
+383,frc7658,7658,MagiTech,0.0,mibat,0mibat,4.0,miken,4miken,15.05,0.4464,244,0.5225
+384,frc7660,7660,The Byting Irish,2.0,mibel,2mibel,0.0,mimil,0mimil,22.87,0.5956,129,0.7476
+385,frc7692,7692,Beach Bums  7692,4.0,midet,4midet,3.0,misal,3misal,13.77,0.4194,273,0.4658
+386,frc7713,7713,Norse Code,1.0,miesc,1miesc,0.0,milac,0milac,5.14,0.3958,477,0.0665
+387,frc7716,7716,JLW Formula 01,4.0,midet,4midet,3.0,mitry,3mitry,12.55,0.4815,293,0.4266
+388,frc7762,7762,AutoPilots,12.0,mimcc,12mimcc,,,,30.92,0.5169,58,0.8865
+389,frc7768,7768,The AutoMatons,1.0,miesc,1miesc,3.0,milsu,3milsu,24.47,0.5833,107,0.7906
+390,frc7769,7769,The CREW,2.0,mibel,2mibel,0.0,mifer,0mifer,43.2,0.8261,9,0.9824
+391,frc7772,7772,The Lucky 7's,1.0,mike2,1mike2,4.0,mimid,4mimid,13.81,0.5,271,0.4697
+392,frc7782,7782,Wolverine Circuit Breakers,1.0,miesc,1miesc,2.0,mitvc,2mitvc,24.09,0.5465,115,0.775
+393,frc7784,7784,Vassar Voltage,1.0,mike2,1mike2,0.0,miket,0miket,15.48,0.5,236,0.5382
+394,frc7790,7790,Baywatch Robotics,0.0,milac,0milac,2.0,mitvc,2mitvc,20.66,0.5357,156,0.6947
+395,frc7794,7794,Marion Eagle Engineers,0.0,milac,0milac,2.0,mitvc,2mitvc,4.91,0.2708,481,0.0587
+396,frc7808,7808,Kalkaska Dragoneers,4.0,miken,4miken,2.0,mitvc,2mitvc,11.56,0.2593,311,0.3914
+397,frc7809,7809,Valhalla Nation,4.0,miken,4miken,1.0,misjo,1misjo,9.44,0.4231,375,0.2661
+398,frc7810,7810,Eagle Robotics,4.0,miken,4miken,2.0,mimus,2mimus,1.77,0.25,509,0.0039
+399,frc7811,7811,Flamin' Hot Tigers,0.0,mibat,0mibat,1.0,misjo,1misjo,4.15,0.25,494,0.0333
+400,frc7813,7813,New Haven Nuts and Bolts,4.0,mimcc,4mimcc,0.0,mimil,0mimil,5.38,0.3333,472,0.0763
+401,frc7814,7814,RV Gearheads,2.0,miber,2miber,1.0,misjo,1misjo,5.54,0.3958,466,0.0881
+402,frc7818,7818,Williamston High School Vespidae,4.0,miken,4miken,3.0,mimas,3mimas,8.72,0.4167,392,0.2329
+403,frc7826,7826,Robotic Sentinels,4.0,mibig,4mibig,1.0,miesc,1miesc,18.39,0.5,187,0.6341
+404,frc7855,7855,Chronic Robophobia,0.0,milac,0milac,2.0,mitvc,2mitvc,9.46,0.2917,373,0.2701
+405,frc7856,7856,UPAD  Fusion,4.0,midet,4midet,,,,7.47,0.4583,426,0.1663
+406,frc7865,7865,Hope of Detroit Robotics,4.0,midet,4midet,2.0,midtr,2midtr,4.58,0.3333,490,0.0411
+407,frc7911,7911,Scrap Cat Robotics,4.0,mibig,4mibig,3.0,miwmi,3miwmi,9.03,0.38,383,0.2505
+408,frc8041,8041,Lake City Ultrabots,0.0,milac,0milac,2.0,mimus,2mimus,11.77,0.4038,306,0.4012
+409,frc8115,8115,Platinum Peacocks,4.0,mimcc,4mimcc,3.0,mitry,3mitry,13.93,0.4615,268,0.4755
+410,frc8124,8124,BearBots,2.0,mibel,2mibel,3.0,mibro,3mibro,4.98,0.3333,480,0.0607
+411,frc8126,8126,Control Freaks,0.0,mibat,0mibat,2.0,mimus,2mimus,12.2,0.3462,297,0.4188
+412,frc815,815,Advanced Power,3.0,mibro,3mibro,2.0,midtr,2midtr,24.21,0.6818,111,0.7828
+413,frc8179,8179,Robo Falcons,2.0,mibel,2mibel,4.0,midet,4midet,13.26,0.4222,280,0.4521
+414,frc818,818,The Steel Armadillos,4.0,mimcc,4mimcc,3.0,mitry,3mitry,32.36,0.621,50,0.9022
+415,frc8193,8193,Steel Stingers,2.0,midtr,2midtr,0.0,miket,0miket,16.51,0.4483,222,0.5656
+416,frc8280,8280,K9.0 Robotics,3.0,mibro,3mibro,0.0,mifer,0mifer,14.64,0.5,252,0.5068
+417,frc8285,8285,Bionic Bulldogs,4.0,miken,4miken,2.0,mimus,2mimus,19.58,0.4853,168,0.6712
+418,frc8286,8286,Farwell Robotics,4.0,mibig,4mibig,1.0,mimtp,1mimtp,23.52,0.5795,124,0.7573
+419,frc8297,8297,WIHI Robo Wolves,2.0,mibel,2mibel,4.0,miken,4miken,10.05,0.2917,355,0.3053
+420,frc830,830,The RatPack,3.0,misal,3misal,,,,17.1,0.5667,212,0.5851
+421,frc8300,8300,Titan Robotics,0.0,mibat,0mibat,2.0,mibkn,2mibkn,8.06,0.4063,413,0.1918
+422,frc8352,8352,CODE Gold,4.0,midet,4midet,2.0,midtr,2midtr,13.92,0.5455,269,0.4736
+423,frc8362,8362,Circuit Breakers,3.0,mibro,3mibro,4.0,midet,4midet,4.67,0.4167,484,0.0528
+424,frc8364,8364,Rising Stars Academy - Nebulas,4.0,mimcc,4mimcc,3.0,mitry,3mitry,4.52,0.375,491,0.0391
+425,frc8373,8373,The Flying Octopi: 8373 R.R.T.,2.0,mibel,2mibel,3.0,misal,3misal,19.63,0.4889,167,0.6732
+426,frc8374,8374,Bongo Bots,2.0,mibkn,2mibkn,3.0,mimas,3mimas,8.0,0.125,415,0.1879
+427,frc8385,8385,Metal Madness,0.0,miket,0miket,4.0,miliv,4miliv,12.6,0.4074,291,0.4305
+428,frc8397,8397,Astrobots,4.0,miken,4miken,3.0,miwmi,3miwmi,13.06,0.3846,287,0.4384
+429,frc8423,8423,Next Express,2.0,mibkn,2mibkn,0.0,mimil,0mimil,13.93,0.4615,267,0.4775
+430,frc8424,8424,Tractor Technicians Next Gen,11.0,mimas,11mimas,,,,12.45,0.5227,295,0.4227
+431,frc8426,8426,Automated Amphibians,1.0,mike2,1mike2,4.0,miliv,4miliv,11.43,0.2143,319,0.3757
+432,frc8427,8427,Protobots,2.0,midtr,2midtr,0.0,mifer,0mifer,19.15,0.5233,173,0.6614
+433,frc85,85,B.O.B. (Built on Brains),2.0,mimus,2mimus,3.0,miwmi,3miwmi,32.78,0.5847,41,0.9198
+434,frc8517,8517,Bounty Hunters,4.0,mimid,4mimid,1.0,mimtp,1mimtp,32.55,0.6885,48,0.9061
+435,frc8519,8519,Iron Eagles,2.0,mibkn,2mibkn,0.0,mimil,0mimil,9.73,0.3167,365,0.2857
+436,frc8522,8522,Springport High School,2.0,mibkn,2mibkn,3.0,mibro,3mibro,20.31,0.5,160,0.6869
+437,frc857,857,Superior Roboworks,1.0,miesc,1miesc,3.0,milsu,3milsu,33.2,0.6111,39,0.9237
+438,frc858,858,Demons Robotics,0.0,mibat,0mibat,4.0,miken,4miken,19.54,0.5217,169,0.6693
+439,frc8608,8608,Alpha Bots,0.0,mibat,0mibat,3.0,mimas,3mimas,39.33,0.6949,14,0.9726
+440,frc8611,8611,Cyber Patriots,4.0,mibig,4mibig,2.0,mitvc,2mitvc,11.53,0.4167,314,0.3855
+441,frc8612,8612,Calvin Christian Robotics,4.0,mibig,4mibig,2.0,mimus,2mimus,23.56,0.4667,123,0.7593
+442,frc862,862,Lightning Robotics,2.0,mibel,2mibel,3.0,miwmi,3miwmi,31.54,0.6071,56,0.8904
+443,frc8623,8623,Michigan FC,3.0,mibro,3mibro,4.0,miliv,4miliv,6.73,0.4167,444,0.1311
+444,frc8728,8728,Argonauts,2.0,mibel,2mibel,,,,21.02,0.4516,149,0.7084
+445,frc8767,8767,Dark Horse Robotics,3.0,misal,3misal,1.0,misjo,1misjo,8.53,0.4167,404,0.2094
+446,frc8774,8774,REST Robotics,2.0,mibel,2mibel,0.0,mifer,0mifer,11.45,0.4231,316,0.3816
+447,frc8832,8832,AutoDawgs,4.0,miliv,4miliv,3.0,misal,3misal,8.49,0.2917,407,0.2035
+448,frc8873,8873,Rockefeller Robotics,1.0,mimtp,1mimtp,2.0,mitvc,2mitvc,30.86,0.541,60,0.8826
+449,frc8895,8895,Redwolves Robotics,2.0,mibkn,2mibkn,0.0,mimil,0mimil,9.66,0.4583,368,0.2798
+450,frc8899,8899,Eagles,4.0,mimcc,4mimcc,,,,8.34,0.4167,409,0.1996
+451,frc894,894,The Power Chargers,0.0,miket,0miket,3.0,misal,3misal,24.89,0.6739,97,0.8102
+452,frc904,904,D Cubed,4.0,miken,4miken,3.0,miwmi,3miwmi,12.75,0.3654,290,0.4325
+453,frc910,910,The Foley Freeze,0.0,miket,0miket,3.0,mimas,3mimas,36.07,0.6587,24,0.953
+454,frc9106,9106,Spires,2.0,miber,2miber,4.0,miken,4miken,8.03,0.5357,414,0.1898
+455,frc9148,9148,Atlas,0.0,mifer,0mifer,4.0,miliv,4miliv,6.11,0.2917,461,0.0978
+456,frc9176,9176,Greenspire Steel Sturgeons,4.0,mimid,4mimid,2.0,mitvc,2mitvc,23.98,0.4524,116,0.773
+457,frc9182,9182,Tech Tr1be,2.0,mibel,2mibel,0.0,mimil,0mimil,18.16,0.3448,192,0.6243
+458,frc9183,9183,RoboComets,0.0,mibat,0mibat,2.0,mibkn,2mibkn,5.13,0.3125,478,0.0646
+459,frc9188,9188,Pantherbots2,1.0,miesc,1miesc,3.0,milsu,3milsu,8.69,0.3462,395,0.227
+460,frc9203,9203,Quake,0.0,mibat,0mibat,3.0,mimas,3mimas,8.93,0.4839,389,0.2387
+461,frc9204,9204,Aluminum Armada,4.0,miliv,4miliv,0.0,mimil,0mimil,8.49,0.3542,406,0.2055
+462,frc9205,9205,Technical Marauders1,3.0,milsu,3milsu,2.0,mimus,2mimus,7.06,0.2083,436,0.1468
+463,frc9206,9206,GRP Titans,4.0,miken,4miken,3.0,miwmi,3miwmi,8.87,0.375,390,0.2368
+464,frc9207,9207,Redneck Robotics,0.0,miket,0miket,3.0,miwmi,3miwmi,10.66,0.4483,335,0.3444
+465,frc9208,9208,Eddies Circuit,2.0,miber,2miber,0.0,miket,0miket,24.33,0.5476,108,0.7886
+466,frc9210,9210,Fighting Falcons,2.0,mibkn,2mibkn,3.0,misal,3misal,4.59,0.4167,489,0.0431
+467,frc9212,9212,Infinity,2.0,mibel,2mibel,4.0,mimcc,4mimcc,13.53,0.5,276,0.4599
+468,frc9215,9215,T-Town Tech,0.0,mibat,0mibat,3.0,mimas,3mimas,17.88,0.602,200,0.6086
+469,frc9225,9225,Wired Wildcats,4.0,mibig,4mibig,2.0,mimus,2mimus,10.01,0.3333,356,0.3033
+470,frc9226,9226,GRemlins of Gabriel Richard Catholic High School,3.0,mibro,3mibro,4.0,miliv,4miliv,15.32,0.3571,241,0.5284
+471,frc9227,9227,Backwoods Bots,0.0,milac,0milac,3.0,milsu,3milsu,5.89,0.375,463,0.0939
+472,frc9237,9237,The Dragonators,1.0,mike2,1mike2,3.0,mitry,3mitry,21.83,0.6136,139,0.728
+473,frc9238,9238,Jaybots,0.0,mibat,0mibat,3.0,mimas,3mimas,3.67,0.2292,499,0.0235
+474,frc9239,9239,Panthers robotics,0.0,mibat,0mibat,2.0,mibkn,2mibkn,6.52,0.375,449,0.1213
+475,frc9241,9241,EV ROBOTICS,3.0,mimas,3mimas,0.0,mimil,0mimil,7.82,0.3125,418,0.182
+476,frc9242,9242,Hamady Hawks,4.0,mibig,4mibig,1.0,mike2,1mike2,11.22,0.4677,323,0.3679
+477,frc9245,9245,Laker Dreadnoughts,0.0,miket,0miket,3.0,mitry,3mitry,20.21,0.5172,162,0.683
+478,frc9248,9248,Orchard View Cyber Cardinals,2.0,mimus,2mimus,3.0,miwmi,3miwmi,4.08,0.2083,495,0.0313
+479,frc9249,9249,Copper Country Cats,1.0,miesc,1miesc,3.0,milsu,3milsu,6.3,0.3125,456,0.1076
+480,frc9251,9251,Spartan Robotics,1.0,mike2,1mike2,,,,10.14,0.4138,351,0.3131
+481,frc9252,9252,Wingspan,4.0,midet,4midet,3.0,mitry,3mitry,5.59,0.2917,465,0.09
+482,frc9255,9255,Botmasterz,2.0,midtr,2midtr,1.0,mike2,1mike2,6.83,0.3333,441,0.137
+483,frc9312,9312,NERD Spark,2.0,mibkn,2mibkn,3.0,mibro,3mibro,34.7,0.5893,32,0.9374
+484,frc94,94,The  TechnoJays,12.0,midet,12midet,,,,10.67,0.5,334,0.3464
+485,frc9455,9455,DinoMights,3.0,mibro,3mibro,0.0,mimil,0mimil,14.06,0.3382,264,0.4834
+486,frc9528,9528,The Wolf Pack,4.0,mimcc,4mimcc,,,,7.14,0.2292,434,0.1507
+487,frc9541,9541,M-stee (squared),0.0,milac,0milac,2.0,mitvc,2mitvc,8.66,0.375,397,0.2231
+488,frc9542,9542,Technodogs,1.0,mimtp,1mimtp,3.0,miwmi,3miwmi,9.01,0.4583,385,0.2466
+489,frc9548,9548,NASA Bark River Bronconaughts,1.0,miesc,1miesc,,,,11.93,0.463,304,0.4051
+490,frc9549,9549,The Mechadogs,1.0,misjo,1misjo,3.0,miwmi,3miwmi,7.36,0.3333,431,0.1566
+491,frc9558,9558,The Steel Vipers,4.0,mimcc,4mimcc,3.0,mitry,3mitry,18.55,0.5116,182,0.6438
+492,frc9566,9566,Red Storm Rookies,0.0,mibat,0mibat,4.0,miken,4miken,17.7,0.5172,204,0.6008
+493,frc9568,9568,AstroBots,0.0,milac,0milac,1.0,mimtp,1mimtp,7.96,0.375,417,0.184
+494,frc9572,9572,CC Shambytes,1.0,mike2,1mike2,4.0,miliv,4miliv,14.58,0.3864,253,0.5049
+495,frc9594,9594,Ashley  Bears,4.0,mimid,4mimid,2.0,mimus,2mimus,11.53,0.5,313,0.3875
+496,frc9618,9618,Tronarchs,2.0,midtr,2midtr,4.0,miliv,4miliv,13.5,0.4255,277,0.4579
+497,frc9638,9638,"Tigers, Bro",1.0,misjo,1misjo,3.0,miwmi,3miwmi,8.67,0.3077,396,0.225
+498,frc9648,9648,Tigers Robotics,0.0,miket,0miket,4.0,mimid,4mimid,15.29,0.4167,242,0.5264
+499,frc9650,9650,Mio-Ausable Thunderbotz,0.0,milac,0milac,1.0,mimtp,1mimtp,5.16,0.4167,476,0.0685
+500,frc9651,9651,Ecorse Robo Raiders,2.0,midtr,2midtr,0.0,mifer,0mifer,2.56,0.2708,508,0.0059
+501,frc9661,9661,Huskie STEAM,3.0,mimas,3mimas,4.0,mimid,4mimid,6.47,0.2708,452,0.1155
+502,frc9662,9662,Valley Lutheran High School Chargers,1.0,mike2,1mike2,4.0,mimid,4mimid,13.91,0.4375,270,0.4716
+503,frc9671,9671,Robosnacks,0.0,mibat,0mibat,4.0,miken,4miken,6.72,0.2083,446,0.1272
+504,frc9672,9672,Colon Magi Robotics,0.0,mibat,0mibat,1.0,mimtp,1mimtp,9.16,0.4231,380,0.2564
+505,frc9673,9673,Ithaca Volt Vespids,1.0,mimtp,1mimtp,2.0,mitvc,2mitvc,15.68,0.4231,231,0.5479
+506,frc9674,9674,Trojan Power Robotics,9.0,miesc,9miesc,,,,13.96,0.3929,266,0.4795
+507,frc9679,9679,Madison Eagles,0.0,mifer,0mifer,4.0,mimcc,4mimcc,7.24,0.3333,433,0.1526
+508,frc9682,9682,(un)Kn0wledgeables,1.0,miesc,1miesc,,,,0.0,0.0,0,0.0
+509,frc9685,9685,Crystal Oscillators,4.0,mimid,4mimid,,,,5.53,0.3333,467,0.0861
+510,frc9697,9697,Bionic Bucs,4.0,miken,4miken,0.0,miket,0miket,3.97,0.2917,496,0.0294
+511,frc9703,9703,Q_Bots,0.0,mibat,0mibat,2.0,mibkn,2mibkn,8.71,0.3125,394,0.229
+512,frc9721,9721,Redhawk Robotics,4.0,mibig,4mibig,3.0,miwmi,3miwmi,16.4,0.4375,225,0.5597
+513,frc9722,9722,Polar Robotics,1.0,miesc,1miesc,3.0,milsu,3milsu,10.06,0.375,354,0.3072
+514,frc9731,9731,All Saints Cougars,1.0,mike2,1mike2,4.0,mimid,4mimid,10.17,0.3333,350,0.3151
+515,frc9733,9733,Gold Diggers,1.0,miesc,1miesc,3.0,milsu,3milsu,3.4,0.3333,501,0.0196
+516,frc9735,9735,Electric Dragons,2.0,mibel,2mibel,4.0,miliv,4miliv,4.26,0.2083,493,0.0352
+517,frc9736,9736,Tawas Braves,4.0,mimid,4mimid,2.0,mitvc,2mitvc,3.27,0.3333,502,0.0176
+518,frc9742,9742,Walkerville Wildcats,4.0,mibig,4mibig,3.0,miwmi,3miwmi,10.88,0.3125,329,0.3562
+519,frc9743,9743,MV TITANS,0.0,mibat,0mibat,2.0,mimus,2mimus,10.2,0.4167,349,0.317
+520,frc9747,9747,ElectroPanthers II,4.0,mimcc,4mimcc,3.0,mitry,3mitry,4.65,0.3333,485,0.0509
+521,frc9751,9751,PantherBots,2.0,midtr,2midtr,3.0,mitry,3mitry,7.09,0.3125,435,0.1487
+522,frc9753,9753,Team Success,4.0,miken,4miken,3.0,mimas,3mimas,7.46,0.3333,427,0.1644
+523,frc9754,9754,Vestabots,0.0,milac,0milac,2.0,mimus,2mimus,6.92,0.2778,439,0.1409
+524,frc9755,9755,Red Devil Robotics,1.0,miesc,1miesc,3.0,milsu,3milsu,8.5,0.3125,405,0.2074
+525,frc9756,9756,Robo Panthers,4.0,mibig,4mibig,2.0,mimus,2mimus,11.62,0.4375,310,0.3933
+526,frc9757,9757,Mecha Marauders,0.0,miket,0miket,4.0,mimcc,4mimcc,4.63,0.2857,487,0.047
+527,frc9758,9758,Pantron-X,2.0,miber,2miber,1.0,misjo,1misjo,11.63,0.3429,309,0.3953
+528,frc9759,9759,Forge of Falcon,0.0,milac,0milac,1.0,mimtp,1mimtp,2.65,0.2083,507,0.0078
+529,frc9771,9771,FPro,0.0,mimil,0mimil,2.0,mitvc,2mitvc,12.96,0.4038,288,0.4364
+530,frc9773,9773,Cardinal Robotics,1.0,miesc,1miesc,3.0,milsu,3milsu,10.22,0.4583,348,0.319
+531,frc9775,9775,Ravens,4.0,midet,4midet,3.0,misal,3misal,3.09,0.0417,505,0.0117
+532,frc9776,9776,Gator Gears,0.0,miket,0miket,3.0,mitry,3mitry,9.68,0.5,367,0.2818
